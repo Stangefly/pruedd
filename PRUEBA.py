@@ -17,7 +17,7 @@ def buscar_usuario(nombre):
             return
         
 def eliminar():
-    
+
     for i in usuarios.items():
         if i[1][0]== nombrea:
             usuarios.pop(i[0])
