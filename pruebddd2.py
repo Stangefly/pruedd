@@ -88,3 +88,4 @@ while opcion!=4:
             print("Cerrando programa...")
         case _:
             print("Opcion fuera de rango")
+            print("XDDDDDDDDDDDD")
